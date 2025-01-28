@@ -1,0 +1,5 @@
+Experiment,fp,fn,rev,shd,NLL
+e16: no interventions,8.0,2.0,8.0,18.0,0.48177245930435114
+e17: perfect-unknown,8.0,6.0,8.0,22.0,0.6208782074711406
+e18: perfect,6.0,2.0,6.0,14.0,0.3326459631217902
+e19: perfect longer patience,6.0,2.0,4.0,12.0,0.3163761367890218

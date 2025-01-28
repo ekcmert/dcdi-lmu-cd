@@ -1,0 +1,23 @@
+Experiment,Category,Case,Number of Nodes,Number of Edges,Number of Instances,Dataset Name,Independent Variable
+e1,Generalization Across Intervention Types,1,10,10,10000,linear_struct,e1: perfect
+e2,Generalization Across Intervention Types,1,10,10,10000,linear_struct,e2: perfect-unknown
+e3,Generalization Across Intervention Types,1,10,10,10000,linear_brutal_param,e3: imperfect
+e4,Generalization Across Intervention Types,2,10,10,10000,nn_struct,e4: perfect
+e5,Generalization Across Intervention Types,2,10,10,10000,nn_struct,e5: perfect-unknown
+e6,Generalization Across Intervention Types,2,10,10,10000,nn_brutal_param,e6: imperfect
+e7,Generalization Across Intervention Types,3,10,10,10000,nnadd_struct,e7: perfect
+e8,Generalization Across Intervention Types,3,10,10,10000,nnadd_struct,e8: perfect-unknown
+e9,Generalization Across Intervention Types,3,10,10,10000,nnadd_brutal_param,e9: imperfect
+e10,Identifiability with Varying Numbers of Interventions,1,10,10,10000,linear_struct,e10: no interventions
+e11,Identifiability with Varying Numbers of Interventions,1,10,10,10000,linear_struct,e11: removed
+e1,Identifiability with Varying Numbers of Interventions,1,10,10,10000,linear_struct,e1: perfect
+e12,Identifiability with Varying Numbers of Interventions,2,10,10,10000,nn_struct,e12: no interventions
+e13,Identifiability with Varying Numbers of Interventions,2,10,10,10000,nn_struct,e13: removed
+e4,Identifiability with Varying Numbers of Interventions,2,10,10,10000,nn_struct,e4: perfect
+e14,Identifiability with Varying Numbers of Interventions,3,10,10,10000,linear_brutal_param,e14: no interventions
+e15,Identifiability with Varying Numbers of Interventions,3,10,10,10000,linear_brutal_param,e15: removed
+e3,Identifiability with Varying Numbers of Interventions,3,10,10,10000,linear_brutal_param,e3: imperfect
+e16,Synthetic Economic Growth Data Identifiability Tests,Econ Data,10,20,10000,macro_policy_scenario,e16: no interventions
+e17,Synthetic Economic Growth Data Identifiability Tests,Econ Data,10,20,10000,macro_policy_scenario,e17: perfect-unknown
+e18,Synthetic Economic Growth Data Identifiability Tests,Econ Data,10,20,10000,macro_policy_scenario,e18: perfect
+e19,Synthetic Economic Growth Data Identifiability Tests,Econ Data,10,20,10000,macro_policy_scenario,e19: perfect longer patience
